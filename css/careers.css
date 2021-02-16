@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.careers-img{
+    
+    
+    color: white;
+   
+    background: #0095b7;
+    margin-bottom: 1rem;
+    
+}
+.careers-img .careers-content{
+    padding: 1rem 5rem;
+    text-align: center;
+}
+.careers-img .careers-content h2{
+   padding: 1rem 0;
+   letter-spacing: 1px;
+}
+.careers-img .careers-content p{
+    padding: .5rem 0;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+
+ }
+ .careers-industry
+ {
+     padding: 1rem 5rem;
+ }
+ .careers-industry .industry-heading{
+     text-align: center;
+ }
+ .careers-industry .industry-heading h3{
+  padding: 1rem 0;
+}
+.careers-industry .industry-list ul{
+text-decoration: none;
+
+}
+.careers-industry .industry-list ul li{
+    text-decoration: none;
+    padding: 5px 0;
+    font-size: 1.1rem;
+    }
